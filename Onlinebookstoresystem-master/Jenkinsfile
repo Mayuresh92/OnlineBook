@@ -11,6 +11,13 @@ pipeline{
             }
 
             }
+        stage('Test Stage'){
+        steps{
+            
+            bat 'mvn -f Onlinebookstoremanagement/pom.xml install'
+            }
+
+            }
         
         stage('Deploy stage'){
             
