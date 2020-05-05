@@ -47,7 +47,7 @@ Go to the Folder named <a href="https://github.com/shashirajraja/onlinebookstore
 Note:- This is a basic Project so we have not think about the security and we have only implemented this project using the generic servlet
 
 #### "Suggestions and project Improvements are Invited!"
-testing code commit changes to jenkins using
+testing code commit changes to jenkins using webhook
 <bold>Thanks a lot</bold><br/>
                                                                                                         Project Leader<br/>
                                                                                                          <b>Shashi Raj</b>
