@@ -16,7 +16,7 @@ pipeline{
             
             steps{
             
-            bat 'mvn sonar:sonar'
+            bat 'mvn -f Onlinebookstoresystem-master/pom.xml sonar:sonar'
             }
 
             }
