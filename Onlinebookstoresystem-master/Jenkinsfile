@@ -36,11 +36,12 @@ pipeline{
             }
         }
        stage("Aggregate Report") {
+           steps{
             build job: 'My_aggregate_results_job'
         }
         
         }
 
-    
+    }
 
 }
